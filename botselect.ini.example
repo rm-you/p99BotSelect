@@ -1,0 +1,21 @@
+[default]
+sheet_url = https://docs.google.com/spreadsheets/d/SHEET_ID/edit
+api_key = <Google API Key with Google Sheets scope enabled>
+# Quickconnect is ... buggy
+use_quickconnect = False
+#cache_file = cache.json
+
+[debug]
+# INFO = 20, WARNING = 30, ERROR = 40
+#loglevel = 20
+# Primarily for wineq2 users
+#EQ_WINDOW_TITLE_REGEX = .* - EverQuest .*
+
+[images]
+#eula_accept = images\1_eula_accept.png
+#soe_logo = images\2_soe_logo.png
+#login_button_deselected = images\3_login_deselected.png
+#login_button_selected = images\3_login_selected.png
+#login_user_field = images\4_login_user_field.png
+#login_password_field = images\5_login_password_and_button.png
+#login_quickconnect_button = images\6_login_quickconnect.png

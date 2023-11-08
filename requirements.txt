@@ -1,0 +1,10 @@
+semver
+wxPython
+ObjectListView
+requests
+keyboard
+pywinauto
+pyautogui
+win32gui
+pyscreeze
+opencv-python
